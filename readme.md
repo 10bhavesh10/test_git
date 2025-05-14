@@ -1,4 +1,4 @@
-## Hello git
+## Hello git, welcome to my git
 
-
--- I am adding this from a new 'feature'
+    - johhny here
+    - I am adding this from a new 'feature'
